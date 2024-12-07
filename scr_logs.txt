@@ -1,0 +1,4 @@
+Telegram says: [401 USER_DEACTIVATED_BAN] - The user has been deleted/deactivated (caused by "updates.GetState")
+Client is already terminated
+Telegram says: [401 USER_DEACTIVATED_BAN] - The user has been deleted/deactivated (caused by "updates.GetState")
+Client is already terminated
